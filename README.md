@@ -76,7 +76,7 @@
                 <li>Tổ chức các hoạt động ngoại khóa như teambuilding, từ thiện...</li>
                 <li>Các cuộc thi và sự kiện giao lưu giữa các thành viên câu lạc bộ.</li>
             <br><br>
-            <a href="https://duong99gb.github.io/1/"><button name="button" type="button"width="131" height="120">Đăng kí Ngay</button></a>
+            <a href="https://duong99gb.github.io/1/">Đăng kí Ngay </a>
     
 
         </div>
